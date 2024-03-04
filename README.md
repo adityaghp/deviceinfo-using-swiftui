@@ -26,8 +26,11 @@ git clone https://github.com/adityaghp/deviceinfo-using-swiftui.git
 ```bash
 open -a xcode
 ```
+## Video
+![Simulator Screen Recording - iPhone 15 Pro - 2024-03-05 at 00 41 48](https://github.com/adityaghp/deviceinfo-using-swiftui/assets/122426326/03c1944f-ba50-4d53-8610-c7d03614cdf3)
 
 ## Preview
 <img align="left" width="300"  src="https://github.com/adityaghp/deviceinfo-using-swiftui/assets/122426326/9d57bba3-6522-4b07-8d6a-73c0ec81599c">
 <img align="right" width="300"  src="https://github.com/adityaghp/deviceinfo-using-swiftui/assets/122426326/2d7310b0-ca7b-4b4a-a1dd-6c9b65d61202">
+
 
