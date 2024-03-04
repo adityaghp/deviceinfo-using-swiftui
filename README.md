@@ -27,7 +27,7 @@ git clone https://github.com/adityaghp/deviceinfo-using-swiftui.git
 open -a xcode
 ```
 ## Video
-Google Drive Video Link: https://drive.google.com/file/d/1YjAK3eBI8hrZRuU_tQM3g1yY0T2Mh8cT/view?usp=sharing
+Video Link: https://drive.google.com/file/d/1YjAK3eBI8hrZRuU_tQM3g1yY0T2Mh8cT/view?usp=sharing
 <img align="middle" width="300"  src="https://github.com/adityaghp/deviceinfo-using-swiftui/assets/122426326/03c1944f-ba50-4d53-8610-c7d03614cdf3"> 
 
 ## Preview
